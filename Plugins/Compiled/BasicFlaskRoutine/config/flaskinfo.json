@@ -233,6 +233,8 @@
     "JunMasterLocalFlaskItemFoundRarityDuringFlaskEffect": 0,
     "JunMasterLocalFlaskSkillManaCostDuringFlaskEffect": 8,
     "JunMasterLocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect": 7,
-    "JunMasterLocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect": 8
+    "JunMasterLocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect": 8,
+
+    "JunMaster2LocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect": 0
   }
 }
