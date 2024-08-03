@@ -1,0 +1,3215 @@
+[
+  {
+    "Stats": [
+      25
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      26
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Spell Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Spell Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1360
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Melee Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Melee Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12499,
+      12500
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0} to {1} added Physical Damage\nPlayers and their Minions have {0} to {1} added Physical Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12503,
+      12504
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0} to {1} added Fire Damage\nPlayers and their Minions have {0} to {1} added Fire Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12501,
+      12502
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0} to {1} added Cold Damage\nPlayers and their Minions have {0} to {1} added Cold Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12505,
+      12506
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0} to {1} added Lightning Damage\nPlayers and their Minions have {0} to {1} added Lightning Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      554
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Critical Strike Chance"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Critical Strike Chance"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12508
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Players and their Minions have {0}% increased Mana Regeneration Rate"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Players and their Minions have {0}% reduced Mana Regeneration Rate"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12507
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "PerMinuteToPerSecond2dpIfRequired"
+        ],
+        "String": "Players and their Minions Regenerate {0}% of Life per second"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      4942
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Projectile Attack Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Projectile Attack Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      460
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Players have {0}% increased Flask Charges gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Players have {0}% reduced Flask Charges gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13043
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Critical Strike Chance while area is not in Lockdown\nPlayers have {0}% increased Critical Strike Chance while area is not in Lockdown"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Critical Strike Chance while area is not in Lockdown\nPlayers have {0}% reduced Critical Strike Chance while area is not in Lockdown"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13044
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d}% to Critical Strike Multiplier while area is not in Lockdown\nPlayers have {0:+d}% to Critical Strike Multiplier while area is not in Lockdown"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13042
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Damage while area is not in Lockdown\nPlayers deal {0}% increased Damage while area is not in Lockdown"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Damage while area is not in Lockdown\nPlayers deal {0}% reduced Damage while area is not in Lockdown"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13046
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Damage with Hits against Enemies on Full Life\nPlayers deal {0}% increased Damage with Hits against Enemies on Full Life"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Damage with Hits against Enemies on Full Life\nPlayers deal {0}% reduced Damage with Hits against Enemies on Full Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12530
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not Activate Lockdown in Grand Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12731
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Blighted Maps and Catalysts"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Blighted Maps and Catalysts"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12733
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Breach Splinters"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Breach Splinters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12735
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Catalysts"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Catalysts"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12722
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Basic Currency"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Basic Currency"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12730
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Delirium Orbs and Splinters"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Delirium Orbs and Splinters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12729
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Divination Cards"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Divination Cards"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12732
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Essences"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Essences"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12723
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Jewels"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Jewels"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12736
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Legion Splinters"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Legion Splinters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12728
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Map Fragments"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Map Fragments"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12724
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Maps"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12737
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Oils"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Oils"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12734
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Scarabs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests Duplicate contained Scarabs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12727
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to Duplicate contained Sextants"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests duplicate contained Sextants"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12725
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Heist Chests have a {0}% chance to contain twice as many Uniques"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Heist Chests contain twice as many Uniques"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12686
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% chance to Duplicate dropped Rogue's Marker"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters Duplicate dropped Rogue's Marker"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13074
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance on completing a Heist to generate an additional Reveal with Whakano"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12316
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased raising of Alert Level from opening Chests"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced raising of Alert Level from opening Chests"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13090
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Alert Level from killing Guards"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Alert Level from killing Guards"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12317
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased raising of Alert Level from Killing Monsters"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced raising of Alert Level from Killing Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13091
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Alert Level from killing Patrol Packs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Alert Level from killing Patrol Packs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12318
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased raising of Alert Level"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced raising of Alert Level"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13174
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more raising of Alert Level"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less raising of Alert Level"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13038
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance on killing an Enemy to not generate Alert Level"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13039
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance on opening a Chest to not generate Alert Level"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13040
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 10,
+            "Item2": 10
+          }
+        ],
+        "StatConversionTypes": [
+          "LocationUnitsToMetres"
+        ],
+        "String": "Can detect enemy Patrols up to {0} metre away when Heist is not in Lockdown"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "LocationUnitsToMetres"
+        ],
+        "String": "Can detect enemy Patrols up to {0} metres away when Heist is not in Lockdown"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12458
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "The Ring's Cut increased by {0}%"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "The Ring's Cut reduced by {0}%"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13048
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "MillisecondsToSeconds"
+        ],
+        "String": "{0:+d} seconds to Lockdown Timer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13049
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "MillisecondsToSecondsHalved"
+        ],
+        "String": "{0:+d} seconds to Lockdown Timer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12361
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased time before Lockdown"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced time before Lockdown"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12362
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByTwo0dp"
+        ],
+        "String": "{0}% increased time before Lockdown"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByTwo0dp"
+        ],
+        "String": "{0}% reduced time before Lockdown"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13071
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Agility Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Agility Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13103
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Agility Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Agility Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13066
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Brute Force Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Brute Force Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13098
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Brute Force Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Brute Force Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12365
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13069
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Counter-Thaumaturgy Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Counter-Thaumaturgy Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13101
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Counter-Thaumaturgy Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Counter-Thaumaturgy Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13072
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Deception Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Deception Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13104
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Deception Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Deception Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13068
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Demolition Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Demolition Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13100
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Demolition Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Demolition Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13073
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Engineering Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Engineering Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13105
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Engineering Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Engineering Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12476
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Job Experience gain"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Job Experience gain"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12477
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Character Level"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13065
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Lockpicking Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Lockpicking Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13097
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Lockpicking Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Lockpicking Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13067
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Perception Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Perception Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13099
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Perception Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Perception Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13070
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Hiring Fee for Trap Disarmament Jobs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Hiring Fee for Trap Disarmament Jobs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13102
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Trap Disarmament Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Trap Disarmament Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12363
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Job speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Job speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13047
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Rogue's Marker value of primary Heist Target"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Rogue's Marker value of primary Heist Target"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12459
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Travel Fee"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Travel Fee"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12478
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to Avoid being Interrupted"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12690
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Quantity of Items dropped in Heists"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Quantity of Items dropped in Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12689
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Rarity of Items dropped in Heists"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Rarity of Items dropped in Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13062
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Agility"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12488
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Agility Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12496
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Agility speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Agility speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13057
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Brute Force"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12483
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Brute Force Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13052
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Performing Brute Force during Lockdown doesn't take additional time"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12493
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Brute Force speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Brute Force speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13060
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Counter-Thaumaturgy"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12486
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Counter-Thaumaturgy Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13054
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Performing Counter-Thaumaturgy during Lockdown doesn't take additional time"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12495
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Counter-Thaumaturgy speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Counter-Thaumaturgy speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13063
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Deception"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12489
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Deception Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12498
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Deception speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Deception speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13059
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Demolition"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12485
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Demolition Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13053
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Performing Demolition during Lockdown doesn't take additional time"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12480
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Demolition speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Demolition speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13064
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Engineering"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12490
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Engineering Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13055
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Performing Engineering during Lockdown doesn't take additional time"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12497
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Engineering speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Engineering speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13050
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Level of all Jobs for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13056
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Lockpicking"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12482
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Lockpicking Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13051
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Performing Lockpicking during Lockdown doesn't take additional time"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12479
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Lockpicking speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Lockpicking speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13058
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Perception"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12484
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Perception Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12494
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Perception speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Perception speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13061
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to not generate Alert Level on opening a Chest using Trap Disarmament"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12487
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "+{0} to Trap Disarmament Level for Heists"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12481
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Trap Disarmament speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Trap Disarmament speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12517
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Anger Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12524
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Purity of Ice Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12520
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Determination Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12522
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Discipline Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12523
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Purity of Fire Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12521
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Grace Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12518
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Haste Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12516
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Hatred Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12525
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Purity of Lightning Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12528
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Malevolence Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12526
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Pride Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12519
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Wrath Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      12527
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Grants Level {0} Zealotry Skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      8155
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Item sells for much more to vendors"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13045
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Movement Speed while area is not in Lockdown\nPlayers have {0}% increased Movement Speed while area is not in Lockdown"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Movement Speed while area is not in Lockdown\nPlayers have {0}% reduced Movement Speed while area is not in Lockdown"
+      }
+    ]
+  }
+]
