@@ -9,14 +9,14 @@
     ".NETCoreApp,Version=v8.0/win-x64": {
       "DelveWalls/1.0.0": {
         "dependencies": {
-          "ImGui.NET": "1.87.3",
+          "ImGui.NET": "1.90.0.1",
           "SharpDX.Mathematics": "4.2.0"
         },
         "runtime": {
           "DelveWalls.dll": {}
         }
       },
-      "ImGui.NET/1.87.3": {
+      "ImGui.NET/1.90.0.1": {
         "dependencies": {
           "System.Buffers": "4.4.0",
           "System.Numerics.Vectors": "4.4.0",
@@ -24,8 +24,8 @@
         },
         "runtime": {
           "lib/net6.0/ImGui.NET.dll": {
-            "assemblyVersion": "1.87.3.0",
-            "fileVersion": "1.87.3.0"
+            "assemblyVersion": "1.90.0.1",
+            "fileVersion": "1.90.0.1"
           }
         },
         "native": {
@@ -920,12 +920,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ImGui.NET/1.87.3": {
+    "ImGui.NET/1.90.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-pYKUrXtvinMZiWToAzGhAGXscPr1B/NVVADbfbBlpl9waaVtB/7q9Zx07HyjivE44f8u1W1L++iwwfrCS3Sw3w==",
-      "path": "imgui.net/1.87.3",
-      "hashPath": "imgui.net.1.87.3.nupkg.sha512"
+      "sha512": "sha512-ZhEN7SKx5e9bbWY5BR2tNdbl7W4cJXaESwFRGo6p2pUSM9Y8yxtWq2zM4Qf8a8HYCmblHuFWtp8YcZiWlcJ3ZQ==",
+      "path": "imgui.net/1.90.0.1",
+      "hashPath": "imgui.net.1.90.0.1.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
