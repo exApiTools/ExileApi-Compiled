@@ -1,0 +1,2308 @@
+[
+  {
+    "Stats": [
+      22525
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Ancient Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Ancient Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17184
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Awakened Sextant"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Awakened Sextants"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17182
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Blessed Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Blessed Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17170
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Cartographer's Chisel"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Cartographer's Chisels"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17171
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Chaos Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Chaos Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17178
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Chromatic Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Chromatic Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16054
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Ember Currency Item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Ember Currency Items"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16050
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Item with a Searing Exarch Implicit Modifier"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Items with a Searing Exarch Implicit Modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16027
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Basic Currency Item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Basic Currency Items"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16039
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards a Corrupted Item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward a Corrupted Item"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16041
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards Basic Currency"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward Basic Currency"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16042
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards Exotic Currency"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward Exotic Currency"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16043
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards League Currency"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward League Currency"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16040
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards Currency"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward Currency"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16046
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards Levelled Gems"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward Levelled Gems"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16047
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards Quality Gems"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward Quality Gems"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16045
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards Gems"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward Gems"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16044
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards other Divination Cards"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward other Divination Cards"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16037
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards a Map"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward a Map"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16038
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards a Unique Map"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward a Unique Map"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16031
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16034
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards a Unique Armour"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward a Unique Armour"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16036
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards a Corrupted Unique Item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward a Corrupted Unique Item"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16035
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards Unique Jewellery"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward Unique Jewellery"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16032
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards a Unique Item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward a Unique Item"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16033
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Divination Card which rewards a Unique Weapon"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divination Cards which reward a Unique Weapon"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17181
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divine Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Divine Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17197
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Chaos Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Chaos Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17198
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Exalted Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Exalted Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17199
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Orb of Annulment"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Orbs of Annulment"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17189
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Enkindling Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Enkindling Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17176
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Exalted Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Exalted Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17179
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orb of Fusing"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orbs of Fusing"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17169
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Gemcutter's Prism"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Gemcutter's Prisms"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16028
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Gem"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Gems"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17168
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Glassblower's Bauble"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Glassblower's Baubles"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17193
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Grand Eldritch Ember"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Grand Eldritch Embers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17196
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Grand Eldritch Ichor"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Grand Eldritch Ichors"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17192
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Greater Eldritch Ember"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Greater Eldritch Embers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17195
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Greater Eldritch Ichor"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Greater Eldritch Ichors"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17190
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Instilling Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Instilling Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17180
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Jeweller's Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Jeweller's Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17191
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Lesser Eldritch Ember"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Lesser Eldritch Embers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17194
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Lesser Eldritch Ichor"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Lesser Eldritch Ichors"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16048
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops an additional Map"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17174
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orb of Alteration"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orbs of Alteration"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17185
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orb of Annulment"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orbs of Annulment"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17186
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orb of Binding"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orbs of Binding"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17173
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orb of Regret"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orbs of Regret"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17175
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orb of Scouring"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orbs of Scouring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17188
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orb of Unmaking"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Orbs of Unmaking"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17177
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Regal Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Regal Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16030
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [Thread|Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16053
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Ichor Currency Item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Eldritch Ichor Currency Items"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16049
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Item with an Eater of Worlds Implicit Modifier"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Items with an Eater of Worlds Implicit Modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16029
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Unique Item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Unique Items"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17183
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Vaal Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Vaal Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17172
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Veiled Chaos Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional Veiled Chaos Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1041,
+      23016
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Quantity of Items found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate",
+          "NoFunction"
+        ],
+        "String": "{0}% reduced Quantity of Items found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1246,
+      23017
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Rarity of Items found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate",
+          "NoFunction"
+        ],
+        "String": "{0}% reduced Rarity of Items found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19833
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [AbyssThread|Abyss Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [AbyssThread|Abyss Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19832
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BestiaryThread|Bestiary Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BestiaryThread|Bestiary Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19830
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BetrayalThread|Betrayal Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BetrayalThread|Betrayal Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19828
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BlightThread|Blight Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BlightThread|Blight Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19826
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BreachThread|Breach Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [BreachThread|Breach Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19834
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [ExpeditionThread|Expedition Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [ExpeditionThread|Expedition Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19835
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [IncursionThread|Incursion Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [IncursionThread|Incursion Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19827
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [LegionThread|Legion Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [LegionThread|Legion Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19829
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [RitualThread|Ritual Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [RitualThread|Ritual Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19831
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [UltimatumThread|Ultimatum Thread]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Boss drops {0} additional [UltimatumThread|Ultimatum Threads]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15915
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Basic Currency Items dropped by slain Enemies have {0}% chance to be Duplicated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16101
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Divination Cards dropped by slain Enemies have {0}% chance to be Duplicated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15916
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Gems dropped by slain Enemies have {0}% chance to be Duplicated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15919
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Maps dropped by slain Enemies have {0}% chance to be Duplicated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15918
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[Thread|Threads] dropped by slain Enemies have {0}% chance to be Duplicated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15917
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Items dropped by slain Enemies have {0}% chance to be Duplicated"
+      }
+    ]
+  }
+]
