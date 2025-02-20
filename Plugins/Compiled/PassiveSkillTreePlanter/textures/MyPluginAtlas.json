@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "AtlasMapCircle": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1334,
+        "h": 1334
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1334,
+        "h": 1334
+      },
+      "sourceSize": {
+        "w": 1334,
+        "h": 1334
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "AtlasMapCircleFilled": {
+      "frame": {
+        "x": 1334,
+        "y": 0,
+        "w": 1334,
+        "h": 1334
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1334,
+        "h": 1334
+      },
+      "sourceSize": {
+        "w": 1334,
+        "h": 1334
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.2",
+    "image": "MyPluginAtlas.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2668,
+      "h": 1334
+    },
+    "scale": 1
+  }
+}
