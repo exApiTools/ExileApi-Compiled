@@ -1,0 +1,5352 @@
+[
+  {
+    "Stats": [
+      3299,
+      3300
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "TempestModText",
+          "TempestModText"
+        ],
+        "String": "{0} {1}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1041,
+      23294
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Quantity of Items found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate",
+          "NoFunction"
+        ],
+        "String": "{0}% reduced Quantity of Items found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1246,
+      23295
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Rarity of Items found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate",
+          "NoFunction"
+        ],
+        "String": "{0}% reduced Rarity of Items found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22908,
+      23296
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Dead Man's Sulphur found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate",
+          "NoFunction"
+        ],
+        "String": "{0}% reduced Dead Man's Sulphur found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      3965
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "This Area's Modifiers to Quantity of Items found also apply to Rarity"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1026,
+      23293
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Pack size"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate",
+          "NoFunction"
+        ],
+        "String": "{0}% reduced Pack size"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1365
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area is unidentified"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      2572
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area is corrupted"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10776
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% more Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% less Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10772
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% more maximum Life"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% less maximum Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10777
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% increased Character Size"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% reduced Character Size"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10773
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% more Attack Speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% less Attack Speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10774
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% more Cast Speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% less Cast Speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10775
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% more Movement Speed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% less Movement Speed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10778
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% increased Item Quantity"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% reduced Item Quantity"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10779
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% increased Item Rarity"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% reduced Item Rarity"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10780
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred"
+        ],
+        "String": "{0}% chance for Double Rewards"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23006
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains a Brinerot Raiding Party"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22998
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains Filthscrabble"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22994
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional pack of Crabs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional packs of Crabs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22995
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional pack of Drowned"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional packs of Drowned"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23078
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional pack of Octopi"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional packs of Octopi"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22993
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional pack of Sea Beasts"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional packs of Sea Beasts"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23010
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[BasicCurrency|Basic Currency] items dropped by Monsters in Area will instead drop as Stacked Decks"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23008
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased quantity of items found in Areas per Chart connection"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced quantity of items found in Areas per Chart connection"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23075
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Rarity of Items found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Rarity of Items found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23009
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% of Equipment dropped by Monsters in Area is converted to Gold"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Equipment dropped by Monsters in Area is converted to Gold"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23084
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters in all Voyage Areas cannot drop Equipment, Flasks or Tinctures"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23007
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased number of Rare monsters in Area per Chart connection"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced number of Rare monsters in Area per Chart connection"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23237
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area have {0}% chance to drop a Support Gem"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop a Support Gem"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23001
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Ancient Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Ancient Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23004
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Annulment Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Annulment Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23175
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Blessed Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Blessed Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23170
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Chaos Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Chaos Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23173
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Chromatic Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Chromatic Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23002
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Divine Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Divine Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23003
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Exalted Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Exalted Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23172
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Gemcutter's Prism"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Gemcutter's Prisms"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23176
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Regal Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Regal Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23174
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Orb of Regret"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Orbs of Regret"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23074
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Scarab"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Scarabs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23171
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop an additional Vaal Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area drop {0} additional Vaal Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23005
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional Pirate's Locker"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional Pirate's Lockers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16255
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Awards an Offering to the Goddess"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22391
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Final Pack spawns a Reflecting Mist on Death"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20916
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional Packs of Divination Touched Magic Monsters that\nhave 1000% increased chance to drop Divination Cards"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      18413
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Abysses that do not lead to an Abyssal Depths lead to a Stygian Spire"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23012
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[ContainsAbyss|Abysses] in Area contain an additional Pit"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[ContainsAbyss|Abysses] in Area contain {0} additional Pits"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23017
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Rare Monsters spawned by Abysses in Area have an additional Abyssal Monster Modifier"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Rare Monsters spawned by Abysses in Area have {0} additional Abyssal Monster Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19949
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Abysses unearth Hoards as they travel"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      14072
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Abyssal Troves in your Maps have a {0}% chance to contain an additional Abyssal Jewel"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Abyssal Troves in your Maps contain an additional Abyssal Jewel"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23016
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[ContainsAbyss|Abyss] Pits in Area that do not contain a reward instead create an [AbyssalCrystal|Abyssal Crystal]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22534
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Reward Types in your Maps have a {0}% chance to gain +1 to count on defeating a Unique Delirium Boss"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Reward Types in your Maps gain +1 to count on defeating a Unique Delirium Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19933
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Encounters contain all Unique Delirium Bosses"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13958
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium in your Maps increases {0}% faster with distance from the mirror"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium in your Maps increases {0}% slower with distance from the mirror"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13899
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -2
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Delirium Encounters generate {0} fewer Reward types"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -1,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Encounters generate 1 fewer Reward type"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Encounters generate an additional Reward type"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Delirium Encounters generate {0} additional Reward types"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13888,
+      23299
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Area has {0}% chance for all Monsters to be at least Magic"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters in Area are at least Magic"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      21185
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters guarding Ore Deposits in Area are at least Magic"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance for Monsters guarding Ore Deposits in Area to be at least Magic"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19943
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains the Nameless Seer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20277
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monster Packs in Area have a {0}% chance to be replaced by a random Atlas Boss\nModifiers to the Final Map Boss also apply to these Atlas Bosses"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19998
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Einhar Missions in Area will contain The Black Mórrigan"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13961
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Intelligence gained from Immortal Syndicate targets"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Intelligence gained from Immortal Syndicate targets"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22544
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Interrogated Immortal Syndicate targets in Area have a {0}%\nchance to not lose Rank upon completing Interrogation"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Interrogated Immortal Syndicate targets in Area do not lose Rank upon completing Interrogation"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13917
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Immortal Syndicate Members have {0}% increased chance to be accompanied by reinforcements"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Immortal Syndicate Members have {0}% reduced chance to be accompanied by reinforcements"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19926
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Beyond Bosses become Enraged on reaching Low Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16706
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Beyond Portals in Area have {0}% increased chance to spawn a Unique Boss"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Beyond Portals in Area have {0}% reduced chance to spawn a Unique Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19927
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Beyond Bosses drop {0}% reduced Tainted Currency"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Beyond Bosses drop {0}% increased Tainted Currency"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19924
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Items dropped by Beyond Demons are Corrupted"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13712
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Beyond Portals have {0}% reduced Merging Radius"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Beyond Portals have {0}% increased Merging Radius"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19925
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters create an additional Beyond Portal when slain"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique monsters create {0} additional Beyond Portals when slain"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22533
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Beyond Bosses Spawned in Area are accompanied by Beyond Bosses of other Factions"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19936
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Unique Blight Bosses have {0}% reduced Life"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Blight Bosses have {0}% increased Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19934
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Blight chests have a {0}% chance to be openable again"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10554
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance for Blight Chests to contain an additional Reward"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Blight Chests contain an additional Reward"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19935
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Blight maps drop as Blight-Ravaged Maps instead"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13756
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Oils found have a {0}% chance to be 1 tier higher"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Oils found are 1 tier higher"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20733
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Map Boss deals increased Damage per stolen Divination Card"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20734
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Divination Cards dropped by Final Map Boss are duplicated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22772
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "A Map Boss will be accompanied by a random Shaper Guardian, Elder Guardian, Conqueror or Synthesis Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20732
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Map Boss has {0}% increased Toughness per stolen Divination Card"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15743
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Clasped Hands drop {0}% more Breach Splinters"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Clasped Hands drop {0}% less Breach Splinters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22260
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Breach Hives in Area lead to a Hive Fortress"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22609
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ailith's skills in Area instead enrage the Hive, increasing the Difficulty\nand Reward of subsequent waves"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15744
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Breach Monsters drop {0}% more Breach Splinters"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Breach Monsters drop {0}% less Breach Splinters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19899
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Clasped Hands are guarded by a rare Breach Monster"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20811
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional packs\nof Difficult and Rewarding Monsters which drop 300% increased Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20730
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional packs of Doedre's Devoted"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19910
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional packs of Incursion Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22385
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional packs of Zarokh monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22389
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Golden Volatile"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Golden Volatiles"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13839
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an Abyssal Depths"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      5575
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional unstable Breach"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional unstable Breaches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22733
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains a Breach"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      21775
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains a Breach Hive"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22382
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Bronze Djinn's Cache"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Bronze Djinn's Caches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22384
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Golden Djinn's Cache"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Golden Djinn's Caches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22383
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains an additional Silver Djinn's Cache"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains {0} additional Silver Djinn's Caches"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22390
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area contains Faridun Miniboss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22531
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area is inhabited by an additional Exceptional Rogue Exile"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area is inhabited by {0} additional Exceptional Rogue Exiles"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22377
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Currency found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Currency found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20610
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% more Currency found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% less Currency found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      18277
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Players can only deal Damage when near {0} other Players"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19918
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Divination Cards found in Area have a {0}% chance to drop as a full stack"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20774
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% more Divination Cards found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% less Divination Cards found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19920
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Divination Cards found per different Favoured Map"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Divination Cards found per different Favoured Map"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19919
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Divination Card drops are replaced by those of your Favoured Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20731
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Divination Cards which drop in Area are stolen by the Final Map Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      17560
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Rarity of Maps found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Rarity of Maps found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      14032
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to create a copy of Beasts Captured in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Create a copy of Beasts Captured in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19948
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Sulphite in Area is guarded by Monsters from the Azurite Mines\nSulphite in Area releases Enraging Fumes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20645
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Imprisoned Monsters have increased Difficulty and Reward for each Essence Modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20275
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area is affected by every Atlas Passive Tree Notable"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22535
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Logbooks found in Area have a {0}% chance to drop with 4 Implicits"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Logbooks found in Area always have 4 Implicits"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19945
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Expedition Encounters in Area are lead by Dannig"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22536
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Expedition Monsters gain increased Difficulty and Reward for each Remnant detonated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19944
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Remnants have an additional Prefix Modifier"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Remnants have {0} additional Prefix Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22381
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Rarity of Items found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Rarity of Items found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19946
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Final Map Boss will drop an additional Maven Invitation"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Final Map Boss will drop {0} additional Maven Invitations"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19995
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Incursion Architect slain in Area will drop an Itemised Temple\nItemised Temples found in Area have room tiers randomised"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      18273
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Other Players are classified as Enemies"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20960
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Gold found in this Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced Gold found in this Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22468
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Area has patches of Oasis Ground"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19996
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Harbingers drop rarer Currency shards"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19916
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Currency shards dropped by Harbingers have a {0}% chance to be duplicated"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Currency shards dropped by Harbingers are duplicated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20933
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Harbingers in Area spawn Empowered Obelisks"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19917
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Harbingers each drop a single type of Currency shard"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      14260
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Harbingers have a {0}% chance to be replaced by a powerful Harbinger boss"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Harbingers are replaced by a powerful Harbinger boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19909
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "The Sacred Grove contains up to 1 additional Tier 4 seed of each type, if possible"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20231
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "When a fifth Impale is inflicted on a Player,\nImpales are removed to Reflect their Physical Damage multiplied\nby their remaining Hits to that Player and their Allies within 1.8 metres"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19911
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Upgrading an Incursion room will always upgrade it to the maximum tier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      16049
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Influenced Monster Packs have {0}% increased Pack Size"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15994
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Awards an Improved Offering to the Goddess"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      5869
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional Shrine"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional Shrines"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22539
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Chests in Area have a {0}% chance to spread their Rewards to\nLegion Monsters they release from stasis when they are broken out\nLegion Monsters that have gained Rewards have increased Difficulty"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Chests in Area spread their Rewards to\nLegion Monsters they release from stasis when they are broken out\nLegion Monsters that have gained Rewards have increased Difficulty"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13949
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Encounters contain {0} additional Sergeant"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Encounters contain {0} additional Sergeants"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19939
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Encounters in Area will always contain the Maraketh"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20006
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Legion Monsters can be broken out of Stasis multiple times\nLegion Monsters gain increased Difficulty and Reward for each time they are broken out"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22380
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Maps found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Maps found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20608
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% more Maps found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% less Maps found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      8891
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Maps found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20689
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% reduced Maps found in Area for each Map Modifier affecting Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased Maps found in Area for each Map Modifier affecting Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13898
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Maps found have {0}% chance to have layers of Delirium"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Maps found have layers of Delirium"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22376
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] {0}% chance for Enemies to Revive on Death"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Enemies Revive on Death"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22467
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Monsters in Area have {0}% chance to spawn a Golden Volatile on death"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "DNT] Monsters in Area spawn a Golden Volatile on death"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20903
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional Apparition Shrine"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional Apparition Shrines"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20909
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional Evolving Shrine"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional Evolving Shrines"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      10000
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional Gloom Shrine"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional Gloom Shrines"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      9999
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains an additional Resonating Shrine"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Area contains {0} additional Resonating Shrines"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20944
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Apparitions summoned by Pantheon-Touched Monsters deal {0}% reduced Damage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Apparitions summoned by Pantheon-Touched Monsters deal {0}% increased Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22392
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Players in Area cannot Die"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22396
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Players in Area have [SoulEater|Soul Eater]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20278
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Enemies killed by Players in Area have a {0}% chance to Explode, dealing a tenth of their maximum Life as Damage of a Random Element"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Enemies killed by Players in Area Explode, dealing a tenth of their maximum Life as Damage of a Random Element"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20278
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Player Modifiers to Item Quantity do not apply in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20279
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Player Modifiers to Item Rarity do not apply in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      18283
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Players can only deal Damage to Monsters of matching Polarity"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19937
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Abyss Monsters have a {0}% chance to drop an additional Rare item with an Abyssal Socket"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Abyss Monsters drop an additional Rare item with an Abyssal Socket"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20681
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Up to {0} additional Rare Monsters in Area are Pantheon-Touched"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13879
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in your Maps spawn an additional Beyond Portal when Slain"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in your Maps spawn {0} additional Beyond Portals when Slain"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19904
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare monsters that are natural inhabitants are imprisoned by Essences"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20276
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in Area have dropped items converted by a Reward Modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20888
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters in Area have dropped items converted by a Reward Modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      14255
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ritual Altars allow rerolling Favours an additional time"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ritual Altars allow rerolling Favours {0} additional times"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15977
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rerolling Favours at Ritual Altars has no Cost the first {0} time"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rerolling Favours at Ritual Altars has no Cost the first {0} times"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19908
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Rituals offer {0}% reduced Favour"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rituals offer {0}% increased Favour"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22540
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rituals in Area contain an additional Rare Itemised Corpse Monster"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rituals in Area contain {0} additional Rare Itemised Corpse Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19901
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Wild Rogue Exiles have a {0}% chance to be replaced by Rogue Giants"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Wild Rogue Exiles are replaced with Rogue Giants"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13955
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance for Wild Rogue Exiles to appear in Pairs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Wild Rogue Exiles appear in Pairs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22379
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Scarabs found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Scarabs found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20609
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% more Scarabs found in Area"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% less Scarabs found in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19989
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Shrine Buffs in Area also grant {0}% reduced Experience gained"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Shrine Buffs in Area also grant {0}% increased Experience gained"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19906
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Shrines in Area are guarded by an Atlas Boss\nModifiers to the Final Map Boss also apply to these Atlas Bosses"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19905
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Using a Remnant of Corruption can only result in upgrading or transforming Essences"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13720
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Strongboxes have a {0}% chance to be openable again"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19902
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Explicit Modifiers on Strongboxes have {0}% increased effect"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19903
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Strongboxes are more likely to be rarer varieties"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19474
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% Chance to convert Maps to Conqueror Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19473
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% Chance to convert Maps to Elder Guardian Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19484
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% Chance to convert Maps to Maven Invitations"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19485
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% Chance to convert Maps to Atlas Memories"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19483
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% Chance to convert Maps to Scarabs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19472
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% Chance to convert Maps to Shaper Guardian Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19475
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% Chance to convert Maps to Unique Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19913
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Immortal Syndicate members have a {0}% chance to drop an additional Scarab when defeated"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Immortal Syndicate members drop an additional Scarab when defeated"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15687
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 999
+          }
+        ],
+        "StatConversionTypes": [
+          "DivideByOneHundred2dpIfRequired"
+        ],
+        "String": "Tier 1-15 Maps found have {0}% chance to be 1 tier higher"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1000,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Tier 1-15 Maps found are 1 tier higher"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22543
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Tormented Spirits in Area have a {0}% chance to be set free when\nPossessed Monsters are slain and dig up a Possessed Monster"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Tormented Spirits in Area are set free when Possessed Monsters are slain and dig up a Possessed Monster"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19922
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Tormented Spirits have a {0}% chance to be set free when Possessed Monsters are slain"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19923
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Tormented Spirits are replaced by unusual variants"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20930
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Blight Encounters in Area have one Blighted Chest\nBlight Encounters in Area spawn additional waves of Enemies\nBlighted Chests in Area grow larger and more rewarding as you defeat Blighted Enemies"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19932
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ultimatum Encounter Rewards offering Catalysts will offer Inscribed Ultimatums to the Map Owner instead"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19930
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ultimatum Encounters lead to a Unique Boss if possible"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19931
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ultimatum Encounters in Area will only offer Catalysts as Rewards to the Map Owner"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19900
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Map Boss will drop an additional Unique Map"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Final Map Boss will drop {0} additional Unique Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20693
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters have {0} additional Monster Modifier"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters have {0} additional Monster Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19941
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters drop an additional Unique item"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters drop {0} additional Unique items"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20692
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters in Area have an additional Reward\nUnique Monsters in Area are more Difficult for each Reward they have"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters in Area have {0} additional Rewards\nUnique Monsters in Area are more Difficult for each Reward they have"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20792
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Bosses deal {0}% increased damage per 1% Map Pack Size"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Unique Bosses deal {0}% reduced damage per 1% Map Pack Size"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20794
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% increased Rarity of Items from Unique Bosses per 1% Map Pack Size"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "NegateAndDouble"
+        ],
+        "String": "{0}% reduced Rarity of Items from Unique Bosses per 1% Map Pack Size"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20793
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Bosses have {0} increased Toughness per 1% Map Pack Size"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Unique Bosses have {0} reduced Toughness per 1% Map Pack Size"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22551
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters in Area Enrage on Low Life"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13880
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters spawn an additional Beyond Portal when Slain"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unique Monsters spawn {0} additional Beyond Portals when Slain"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22260
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Unstable Breaches in Area contain a Boss"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15991
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Monster Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      15993
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Vaal Vessel contains Mortal Fragments"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22537
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters guarding Ore Deposits have increased Difficulty and Reward and\nOre Deposits contain 15% increased Ore for each Ore Deposit completed in Area"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      21184
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ore Deposits in Area grant Smelted Bars instead of Marking Ore"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20834
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased chance for Bosses Witnessed by the Maven in your Maps to drop Maven Chisels"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced chance for Bosses Witnessed by the Maven in your Maps to drop Maven Chisels"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20868
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ritual Altars in Area spawn a Wildwood Wisp"
+      }
+    ]
+  }
+]
