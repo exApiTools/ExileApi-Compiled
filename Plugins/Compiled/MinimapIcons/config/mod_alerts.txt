@@ -1,0 +1,89 @@
+#Metadata; Text; Minimap icon
+MonsterNemesisUniqueDrop; Inner Treasure nearby; 1,4
+MonsterImplicitNemesisUniqueDrop; Inner Treasure nearby; 1,4
+MonsterAuraPhysicalThorns1; Physical Reflect nearby; 6,3
+MonsterPhysicalThorns; Physical Reflect nearby; 6,3
+MonsterAuraElementalThorns1; Elemental Reflect nearby; 7,3
+MonsterElementalThorns; Elemental Reflect nearby; 7,3
+MonsterNemesisCorruptedBlood; Corrupting Blood nearby; 6,7
+MonsterItems1; Wealth monsters nearby; 3,4
+MonsterExplodesOnDeathFire1; Volatile Flameblood nearby; 2,4
+MonsterExplodesOnDeathLightning1; Volatile Stormblood nearby; 2,4
+MonsterExplodesOnDeathCold1; Volatile Iceblood nearby; 2,4
+MonsterThornsPhysical1; Physical Reflect nearby; 6,3
+MonsterThornsElemental1; Elemental Reflect nearby; 7,3
+MonsterThornsPhysical1Large; Physical Reflect nearby; 6,3
+MonsterThornsElemental1Large; Elemental Reflect nearby; 7,3
+TalismanMonsterUnsetAmulet; Has 1 Socket Talisman; 4,6
+TalismanMonsterManaAmulet; Increased Mana Talisman; 4,6
+TalismanMonsterFireDamageAmulet; Fire Damage Talisman; 4,6
+TalismanMonsterColdDamageAmulet; Cold Damage Talisman; 4,6
+TalismanMonsterLightningDamageAmulet_; Lightning Damage Talisman; 4,6
+TalismanMonsterPhysicalDamageAmulet; Physical Damage Talisman; 4,6
+TalismanMonsterChaosDamageAmulet; Chaos Damage Talisman; 4,6
+TalismanMonsterAdditionalZombieAmulet; Plus 1 Zombie Talisman; 4,6
+TalismanMonsterCritChanceAmulet; Crit Chance Talisman; 4,6
+TalismanMonsterTimeDistortion; Atk & Cast Speed Talisman; 4,6
+TalismanMonsterPrismatic; Spell Damage Talisman; 4,6
+TalismanMonsterAttackAuras; Attack Damage Talisman; 4,6
+TalismanMonsterPiercingChance; Piercing Chance Talisman; 4,6
+TalismanMonsterStrengthAmulet; Strength Talisman; 4,6
+TalismanMonsterIntelligenceAmulet; Intelligence Talisman; 4,6
+TalismanMonsterDexterityAmulet; Dexterity Talisman; 4,6
+TalismanMonsterEnergyShieldAmulet; Energy Shield Talisman; 4,6
+TalismanMonsterFireLensAmulet; Fire Lens Talisman; 4,6
+TalismanMonsterColdLensAmulet; Cold Lens Talisman; 4,6
+TalismanMonsterLightningLensAmulet; Lightning Lens Talisman; 4,6
+TalismanMonsterLifeAmulet; Life Talisman; 4,6
+TalismanMonsterItemQuantityAmulet; Item Quantity Talisman; 4,6
+TalismanMonsterAllAttributesAmulet; All Attributes Talisman; 4,6
+TalismanMonsterAreaOfEffectAmulet; Area Of Effect Talisman; 4,6
+TalismanMonsterExperienceAmulet; Experience Talisman; 4,6
+TalismanMonsterDamageAmulet; Damage Talisman; 4,6
+TalismanMonsterCritMultiplierAmulet; Crit Multiplier Talisman; 4,6
+TalismanMonsterElementalHitAmulet; Elemental Hit Talisman; 4,6
+TalismanMonsterDeleteOnDeath; Delete On Death Talisman; 4,6
+TalismanMonsterFishHunger_; Fish Hunger Talisman; 4,6
+MapSpawnwealth; Map Spawn wealth; 4,6
+MapSpawnExtrawealth; Map Spawn Extra wealth; 4,6
+MapTalismanLeague; Map Talisman League; 4,6
+MapTalismanLeagueCrafted; Map Talisman League Crafted; 4,6
+TalismanT2Warded; Fangjaw Talisman; 4,6
+TalismanT2RatSwarm; Three Rat Talisman; 4,6
+TalismanT2LocustcallerIce; Ice Avian Twins Talisman; 4,6
+TalismanT2LocustcallerFire;  Fire Avian Twins Talisman; 4,6
+TalismanT2LocustcallerLightning;  LightningAvian Twins Talisman; 4,6
+TalismanT2Volcanic; Life Regen Talisman; 4,6
+TalismanT2Deathscape; Clutching Talisman; 4,6
+TalismanT2Wicked; Wereclaw Talisman; 4,6
+TalismanT2SacrificalBlades; Critical Chance Talisman; 4,6
+TalismanT2StaticFiends; Splitnewt Talisman; 4,6
+TalismanT3Ghosting; Spinefuse Talisman; 4,6
+TalismanT3Cataclysmic_; Three Hands Talisman; 4,6
+TalismanT3Terrifying; Rotfeather Talisman; 4,6
+TalismanT3RelentlessRhoas; Monkey Paw Talisman; 4,6
+TalismanT3MonkeyTwins_; Monkey Twins Talisman; 4,6
+TalismanT3Golden; Longtooth Talisman; 4,6
+TalismanT4Rigwald; Greatwolf Talisman; 4,6
+TalismanBeastBossShockwaveDaemon; Beast Boss Shockwave Daemon; 4,6
+MonsterNoTalisman_; No wealth; 4,6
+MonsterRatTalismanPoisonOnHit; Rat Talisman Poison On Hit; 4,6
+MonsterSpawnedWithTalisman; TalismanBonus; 4,6
+MonsterHasTalismanNormal; TalismanBonus Normal; 4,6
+MonsterHasTalismanMagic; TalismanBonus Magic; 4,6
+MonsterHasTalismanRare; TalismanBonus Rare; 4,6
+MonsterHasTalismanUnique; TalismanBonus Unique; 4,6
+TalismanRigwaldSideAreaInfo; Talisman Rigwald Side Area Info; 4,6
+MonsterBloodlinesDropRareItem; Keepers of the Trove; 3,4
+MonsterBloodlinesBeaconOnDeathFire; Flame Bearers;2,4
+MonsterBloodlinesBeaconOnDeathCold; Frost Bearers;2,4
+MonsterBloodlinesBeaconOnDeathLightning; Storm Bearers;2,4
+MonsterTentacleFieldDropModifiers;Tentacle; 3,4
+#Delirium
+MonsterAfflictionMagicRewardDebuffFlaskEffect_; Diluting Touch; 1,4
+MonsterAfflictionMagicRewardDebuffActionSpeed; Paralysing Touch; 7,3
+MonsterAfflictionMagicRewardDebuffRecoveryRate__; Wasting Touch; 3,4
+MonsterAfflictionMagicRewardDebuffDamageTaken; Eroding Touch; 6,3
+MonsterAfflictionHasTeleportAndExplodeOnDeathDaemon; Vengeful Stalker; 1,7
+MonsterAfflictionVolatileOnDeath; Vengeful Chase; 6,7
+MonsterAfflictionAnomalyOnDeath; Vengeful Grip; 1,5
