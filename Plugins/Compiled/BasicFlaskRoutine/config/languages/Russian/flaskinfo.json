@@ -1,0 +1,263 @@
+/*
+  IGNORE = 0,		// ignore mods/flask type/flask name and don't give error
+  NONE = 1,		// mod/flask type/flask name isn't found.
+  LIFE = 2,
+  MANA = 3,
+  HYBRID = 4,
+  DEFENSE = 5,
+  UTILITY = 6,	// Currently This type won't pop.
+  SPEEDRUN = 7,           //quick silver, MOD: adrenaline,
+  OFFENSE = 8,            //sulphur, basalt, diamond,Taste of Hate,
+            //Kiara's Determination, Lion's Roar, The Overflowing Chalice,
+            //The Sorrow of the Divine,Rotgut, Witchfire Brew, Atziri's Promise,
+            //Dying Sun,Vessel of Vinktar
+            //MOD: Fending
+  POISON_IMMUNE = 9,      // MOD: curing
+  FREEZE_IMMUNE = 10,      // MOD: heat
+  IGNITE_IMMUNE = 11,      // MOD: dousing
+  SHOCK_IMMUNE = 12,       // MOD: grounding
+  BLEED_IMMUNE = 13,       // MOD: staunching
+  CURSE_IMMUNE = 14,       // MOD: warding
+  UNIQUE_FLASK = 15,	// Currently This type won't pop.
+  OFFENSE_AND_SPEEDRUN = 16 // Silver flask
+                            // as Onslaught provide
+                            // movement speed and attack speed
+*/
+
+{
+  "UniqueFlaskNames": {
+    "Blood of the Karui": 2,
+
+    "Doedre's Elixir": 3,
+    "Lavianga's Spirit": 3,
+    "Zerphi's Last Breath": 3,
+
+    "Coruscating Elixir": 5,
+    "Forbidden Taste": 2,
+    "Rumi's Concoction": 5,
+    "Sin's Rebirth": 5,
+
+    "Divination Distillate": 6,
+    "The Writhing Jar": 6,
+    "Coralito's Signature": 6,
+
+    "Atziri's Promise": 8,
+    "Dying Sun": 8,
+    "Kiara's Determination": 8,
+    "Lion's Roar": 8,
+    "Rotgut": 8,
+    "Taste of Hate": 8,
+    "The Overflowing Chalice": 8,
+    "The Sorrow of the Divine": 8,
+    "Vessel of Vinktar": 8,
+    "The Wise Oak": 8,
+    "Witchfire Brew": 8,
+    "Soul Ripper": 5,
+    "Soul Catcher": 5,
+    "Cinderswallow Urn": 16,
+
+//ru names:
+
+    "Кровь каруи": 2,
+
+    "Эликсир Дэрии": 3,
+    "Дух Лавианги": 3,
+    "Последний вздох Зебуми": 3,
+
+    "Сверкающий эликсир": 5,
+    "Запретный вкус": 2,
+    "Отвар Руми": 5,
+    "Возрождение греха": 5,
+
+    "Чистое прорицание": 6,
+    "Сосуд страданий": 6,
+    "Почерк Корнелия": 6,
+
+    "Обещание Азири": 8,
+    "Умирающее солнце": 8,
+    "Решимость Киары": 8,
+    "Львиный рев": 8,
+    "Пойло": 8,
+    "Вкус ненависти": 8,
+    "Переполненная чаша": 8,
+    "Печаль божества": 8,
+    "Сосуд Винктара": 8,
+    "Мудный дуб": 8,
+    "Отвар ведьмовского огня": 8,
+    "Жнец душ": 5,
+    "Душелов": 5,
+    "Урна глотателя пепла": 16
+  },
+
+  "FlaskTypes": {
+    "Small Life Flask": 2,
+    "Medium Life Flask": 2,
+    "Large Life Flask": 2,
+    "Greater Life Flask": 2,
+    "Grand Life Flask": 2,
+    "Giant Life Flask": 2,
+    "Colossal Life Flask": 2,
+    "Sacred Life Flask": 2,
+    "Hallowed Life Flask": 2,
+    "Sanctified Life Flask": 2,
+    "Divine Life Flask": 2,
+    "Eternal Life Flask": 2,
+
+    "Малый флакон жизни": 2,
+    "Средний флакон жизни": 2,
+    "Большой флакон жизни": 2,
+    "Вместительный флакон жизни": 2,
+    "Огромный флакон жизни": 2,
+    "Гигантский флакон жизни": 2,
+    "Великий флакон жизни": 2,
+    "Освященный флакон жизни": 2,
+    "Благодатный флакон жизни": 2,
+    "Святой флакон жизни": 2,
+    "Божественный флакон жизни": 2,
+    "Вечный флакон жизни": 2,
+
+    "Small Mana Flask": 3,
+    "Medium Mana Flask": 3,
+    "Large Mana Flask": 3,
+    "Greater Mana Flask": 3,
+    "Grand Mana Flask": 3,
+    "Giant Mana Flask": 3,
+    "Colossal Mana Flask": 3,
+    "Sacred Mana Flask": 3,
+    "Hallowed Mana Flask": 3,
+    "Sanctified Mana Flask": 3,
+    "Divine Mana Flask": 3,
+    "Eternal Mana Flask": 3,
+
+    "Малый флакон маны": 3,
+    "Средний флакон маны": 3,
+    "Большой флакон маны": 3,
+    "Вместительный флакон маны": 3,
+    "Огромный флакон маны": 3,
+    "Гигантский флакон маны": 3,
+    "Великий флакон маны": 3,
+    "Освященный флакон маны": 3,
+    "Благодатный флакон маны": 3,
+    "Святой флакон маны": 3,
+    "Божественный флакон маны": 3,
+    "Вечный флакон маны": 3,
+
+    "Medium Hybrid Flask": 4,
+    "Large Hybrid Flask": 4,
+    "Colossal Hybrid Flask": 4,
+    "Sacred Hybrid Flask": 4,
+    "Hallowed Hybrid Flask": 4,
+
+    "Малый флакон равновесия": 4,
+    "Средний флакон равновесия": 4,
+    "Большой флакон равновесия": 4,
+    "Великий флакон равновесия": 4,
+    "Освященный флакон равновесия": 4,
+    "Благодатный флакон равновесия": 4,
+
+    "Quicksilver Flask": 7,
+    "Bismuth Flask": 5,
+    "Stibnite Flask": 5,
+    "Ruby Flask": 5,
+    "Sapphire Flask": 5,
+    "Amethyst Flask": 5,
+    "Topaz Flask": 5,
+    "Silver Flask": 16,
+    "Aquamarine Flask": 5,
+    "Granite Flask": 5,
+    "Jade Flask": 5,
+    "Quartz Flask": 2,
+    "Sulphur Flask": 8,
+    "Basalt Flask": 5,
+    "Diamond Flask": 8,
+
+//in the same order ru names:
+
+    "Ртутный флакон": 7,
+    "Висмутовый флакон": 5,
+    "Стибнитовый флакон": 5,
+    "Рубиновый флакон": 5,
+    "Сапфировый флакон": 5,
+    "Аметистовый флакон": 5,
+    "Топазовый флакон": 5,
+    "Серебряный флакон": 16,
+    "Аквамариновый флакон": 5,
+    "Гранитный флакон": 5,
+    "Нефритовый флакон": 5,
+    "Кварцевый флакон": 2,
+    "Серный флакон": 8,
+    "Базальтовый флакон": 5,
+    "Алмазный флакон": 8
+	
+  },
+	"FlaskMods": {
+		"FlaskLevelRequirement": 0,
+		"FlaskLevelRequirementHybrid": 0,
+		"FlaskLevelRequirementUtilityResists": 0,
+		"FlaskLevelRequirement14Real": 0,
+		"UtilityFlaskConsecrate": 0,
+		"UtilityFlaskSmokeCloud": 0,
+		"UtilityFlaskChilledGround": 0,
+
+		"FlaskEffectReducedDuration": 0,
+		"FlaskExtraCharges": 0,
+		"FlaskFullRechargeOnCrit": 0,
+		"FlaskFullRechargeOnTakeCrit": 0,
+		"FlaskPartialInstantRecovery": 0,
+		"FlaskIncreasedRecoverySpeed": 0,
+		"FlaskExtraManaCostsLife": 0,
+		"FlaskIncreasedRecoveryOnLowLife": 0,
+		"FlaskChargesUsed": 0,
+		"FlaskIncreasedDuration": 0,
+		"FlaskInstantRecoveryOnLowLife": 0,
+		"FlaskChargesAddedIncreasePercent": 0,
+		"FlaskExtraLifeCostsMana": 0,
+		"FlaskIncreasedRecoveryAmount": 0,
+		"FlaskFullInstantRecovery": 0,
+		"FlaskChanceRechargeOnCrit": 0,
+		"FlaskIncreasedHealingCharges": 0,
+
+		"FlaskHealsMinions": 0,
+		"FlaskBuffManaLeechPermyriadWhileHealing": 0,
+		"FlaskBuffLifeLeechPermyriadWhileHealing": 0,
+		"FlaskBuffKnockbackWhileHealing": 0,
+		"FlaskBuffStunRecoveryWhileHealing": 0,
+		"FlaskBuffMovementSpeedWhileHealing": 7,
+		"FlaskDispellsPoison": 9,
+		"FlaskDispellsBurning": 11,
+		"FlaskRemovesShock": 12,
+		"FlaskDispellsChill": 10,
+		"FlaskBuffArmourWhileHealing": 5,
+		"FlaskBuffEvasionWhileHealing": 5,
+		"FlaskBuffResistancesWhileHealing": 5,
+		"FlaskRemovesBleeding": 13,
+		"FlaskCurseImmunity": 14,
+		"FlaskPoisonImmunity": 9,
+		"FlaskIgniteImmunity": 11,
+		"FlaskBleedCorruptingBloodImmunity": 13,
+		"FlaskChillFreezeImmunity": 10,
+		"FlaskShockImmunity": 10,
+		"FlaskBuffAvoidChillFreeze": 0,
+		"FlaskBuffCriticalChanceWhileHealing": 0,
+		"FlaskIncreasedRecoveryReducedEffect": 0,
+		"LocalFlaskImmuneToMaimAndHinder": 0,
+		"FlaskBuffCurseEffect": 0,
+		"FlaskBuffChillFreezeDuration": 0,
+
+		"JunMasterLocalFlaskCriticalStrikeChanceDuringFlaskEffect": 8,
+		"JunMasterLocalFlaskLifeLeechOnDamageTakenPermyriadDuringFlaskEffect": 2,
+		"JunMasterLocalFlaskItemFoundRarityDuringFlaskEffect": 0,
+		"JunMasterLocalFlaskSkillManaCostDuringFlaskEffect": 8,
+		"JunMasterLocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect": 7,
+		"JunMasterLocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect": 8,
+		"FlaskBuffFreezeShockIgniteChanceWhileHealing": 0,
+		"FlaskBuffCastSpeedWhileHealing": 0,
+		"FlaskBuffAttackSpeedWhileHealing": 0,
+		"FlaskManaRecoveryAtEnd": 0,
+		"FlaskBuffReducedManaCostWhileHealing": 0,
+		"FlaskFullRechargeOnHit": 0,
+		"FlaskEffectNotRemovedOnFullMana": 0,
+		"FlaskBuffAttackLifeLeechWhileHealing": 5,
+		"FlaskBuffSpellEnergyShieldLeechWhileHealing": 5
+	}
+}
