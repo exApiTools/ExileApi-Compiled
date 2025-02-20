@@ -1,0 +1,2041 @@
+[
+  {
+    "Stats": [
+      23275
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Amulets dropped in adjacent Areas have {0}% chance to instead drop as a Unique Amulet"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Amulets dropped in adjacent Areas instead drop as a Unique Amulet"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23081
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain highly prized and exotic Fish"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23276
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Belts dropped in adjacent Areas have {0}% chance to instead drop as a Unique Belt"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Belts dropped in adjacent Areas instead drop as a Unique Belt"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23007
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain a Brinerot raiding party"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23143
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain Captainsbane"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22999
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain Filthscrabble"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22995
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional pack of Crabs"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional packs of Crabs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22996
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional pack of the Drowned"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional packs of the Drowned"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23079
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contains {0} additional pack of Octopi"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contains {0} additional packs of Octopi"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22994
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional pack of Sea Beasts"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional packs of Sea Beasts"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23235
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contains {0} additional Giant Starfish"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23146
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Treasure Anchor"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Treasure Anchors"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23325
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Treasure Anchor"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Treasure Anchors"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23001
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Placing Lanterns does not reduce your Lantern count in adjacent Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23011
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[BasicCurrency|Basic Currency] items dropped by Monsters in adjacent Areas will instead drop as Stacked Decks"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23234
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Arcanist's Strongbox"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Arcanist's Strongboxes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23291
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Arcanist's Strongbox"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Arcanist's Strongboxes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23233
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Diviner's Strongbox"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Diviner's Strongboxes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23293
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an Altar to the Goddess"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} Altars to the Goddess"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23080
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Message in a Bottle"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Messages in Bottles"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22913
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Imprisoned Monster"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Imprisoned Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23277
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Operative's Strongbox"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Operative's Strongboxes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23292
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional Operative's Strongbox"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Operative's Strongboxes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23078
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contains an additional Strongbox"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Strongboxes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23083
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional cage of Tormented Spirits"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional cages of Tormented Spirits"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23009
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased quantity of items found in adjacent Areas per connection"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced quantity of items found in adjacent Areas per connection"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23076
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% more Rarity of Items found in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% less Rarity of Items found in adjacent Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23010
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% of Equipment dropped by monsters in adjacent Areas is converted to Gold"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Equipment dropped by monsters in adjacent Areas is converted to Gold"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23008
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased number of Rare monsters in adjacent Areas per connection"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{0}% reduced number of Rare monsters in adjacent Areas per connection"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23084,
+      22984
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "All Voyage Areas contain Friendly Jellyfish"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23238
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas have {0}% chance to drop a Support Gem"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop a Support Gem"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23002
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Ancient Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Ancient Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23005
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Orb of Annulment"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Orbs of Annulment"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23176
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Blessed Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Blessed Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23171
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Chaos Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Chaos Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23174
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Chromatic Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Chromatic Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23003
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Divine Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters adjacent in Areas drop {0} additional Divine Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23004
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Exalted Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Exalted Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23173
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Gemcutter's Prism"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Gemcutter's Prisms"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23177
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Regal Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Regal Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23175
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Orb of Regret"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Orbs of Regret"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23075
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Scarab"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Scarabs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23172
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop an additional Vaal Orb"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop {0} additional Vaal Orbs"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23147
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas drop Dead Man's Sulphur"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23273
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in adjacent Areas will have a Pantheon Modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23082
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[DNT] Rare Monsters are replaced with random Atlas Bosses"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23274
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rings dropped in adjacent Areas have {0}% chance to instead drop as a Unique Ring"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rings dropped in adjacent Areas instead drop as a Unique Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23272
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain an additional [GoldenLanterns|Golden Lantern]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional [GoldenLanterns|Golden Lanterns]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      23006
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain a lost Pirate's Locker"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22997
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas have {0}% increased explicit modifier magnitudes"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22998
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Charts have {0}% chance to not be consumed when beginning a Voyage"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Charts are not consumed when beginning a Voyage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13889,
+      23300
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas have {0}% chance for all Monsters to be at least Magic"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters in adjacent Areas are at least Magic"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "All Voyage Areas have {0}% chance for all Monsters to be at least Magic"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "Monsters in all Voyage Areas are at least Magic"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      5228
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Adjacent Areas contain {0} additional Clusters of Barrels"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20611
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% more Currency found in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% less Currency found in adjacent Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22909,
+      23297
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Dead Man's Sulphur found in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Dead Man's Sulphur found in all Voyage Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19419
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Items dropped in adjacent Areas have {0}% chance to be Fractured"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Items dropped in adjacent Areas are Fractured"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1370
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Players in adjacent Areas gain {0}% increased Experience"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13487
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Flasks found in all Voyage Areas have {0}% chance to have 20% Quality"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1041,
+      23295
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Quantity of Items found in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Quantity of Items found in all Voyage Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1246,
+      23296
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Rarity of Items found in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Rarity of Items found in all Voyage Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22331
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Magic Monsters in adjacent Areas have an additional modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1027,
+      23299
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased number of Magic Monsters in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased number of Magic Monsters in all Voyage Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1028,
+      23298
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased number of Rare Monsters in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased number of Rare Monsters in all Voyage Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      1026,
+      23294
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Pack Size in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% increased Pack Size in all Voyage Areas"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22397
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Players in all Voyage Areas have [SoulEater|Soul Eater]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20811
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 99
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in all Voyage Areas have {0}% chance to [MonsterFracture|Fracture] on death"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare Monsters in all Voyage Areas [MonsterFracture|Fracture] on death"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20618,
+      23301
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% chance for Rare Monsters in Adjacent Areas to be Possessed"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          },
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction",
+          "NoFunction"
+        ],
+        "String": "{0}% chance for Rare Monsters in all Voyage Areas to be Possessed"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19905
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Rare monsters that are natural inhabitants of all Voyage Areas are imprisoned by Essences"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20610
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% more Scarabs found in adjacent Areas"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% less Scarabs found in adjacent Areas"
+      }
+    ]
+  }
+]
