@@ -1,0 +1,857 @@
+{
+   "Name":"",
+  "Composite": {
+    "Name": "Basic Flask Routine",
+    "Type": 0,
+    "ConditionList": [
+
+    ],
+    "Children": [
+      {
+        "Name": "Instant Health Flask",
+        "Type": 2,
+        "ConditionList": [
+          {
+            "Parameters": {
+              "Invert": "False",
+              "IsAbove": "False",
+              "Percentage": "40"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "HealthPercentConditionFactory"
+          }
+        ],
+        "Children": [
+          {
+            "Name": "Use Instant Life Flask",
+            "Type": 3,
+            "ConditionList": [
+
+            ],
+            "Children": [
+
+            ],
+            "Action": {
+              "Parameters": {
+                "flaskIndex": "1",
+                "key": "0",
+                "useLife": "True",
+                "useMana": "False",
+                "useHybrid": "True",
+                "useInstant": "True",
+                "useDefense": "False",
+                "useOffense": "False",
+                "useUtility": "False",
+                "useSpeedrun": "False",
+                "usePoison": "False",
+                "useFreeze": "False",
+                "useIgnite": "False",
+                "useShock": "False",
+                "useBleed": "False",
+                "useCurse": "False",
+                "useUnique": "False",
+                "useOffenseAndSpeedrun": "False"
+              },
+              "Owner": "Default",
+              "Name": "UseFlaskActionFactory"
+            }
+          }
+        ],
+        "Action": null
+      },
+      {
+        "Name": "Health Potion",
+        "Type": 2,
+        "ConditionList": [
+          {
+            "Parameters": {
+              "Invert": "False",
+              "IsAbove": "False",
+              "Percentage": "65"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "HealthPercentConditionFactory"
+          }
+        ],
+        "Children": [
+          {
+            "Name": "Health Potion Selector",
+            "Type": 0,
+            "ConditionList": [
+
+            ],
+            "Children": [
+              {
+                "Name": "Use Health Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "True",
+                    "useMana": "False",
+                    "useHybrid": "True",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "False",
+                    "useFreeze": "False",
+                    "useIgnite": "False",
+                    "useShock": "False",
+                    "useBleed": "False",
+                    "useCurse": "False",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          }
+        ],
+        "Action": null
+      },
+      {
+        "Name": "Instant Mana Potion",
+        "Type": 2,
+        "ConditionList": [
+          {
+            "Parameters": {
+              "Invert": "False",
+              "IsAbove": "False",
+              "Percentage": "15"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "ManaPercentConditionFactory"
+          }
+        ],
+        "Children": [
+          {
+            "Name": "Use Instant Mana Potion",
+            "Type": 3,
+            "ConditionList": [
+
+            ],
+            "Children": [
+
+            ],
+            "Action": {
+              "Parameters": {
+                "useLife": "False",
+                "useMana": "True",
+                "useHybrid": "True",
+                "useInstant": "True",
+                "useDefense": "False",
+                "useOffense": "False",
+                "useUtility": "False",
+                "useSpeedrun": "False",
+                "usePoison": "False",
+                "useFreeze": "False",
+                "useIgnite": "False",
+                "useShock": "False",
+                "useBleed": "False",
+                "useCurse": "False",
+                "useUnique": "False",
+                "useOffenseAndSpeedrun": "False"
+              },
+              "Owner": "Default",
+              "Name": "UseFlaskTypeActionFactory"
+            }
+          }
+        ],
+        "Action": null
+      },
+      {
+        "Name": "Mana Potion",
+        "Type": 2,
+        "ConditionList": [
+          {
+            "Parameters": {
+              "Invert": "False",
+              "IsAbove": "False",
+              "Percentage": "40"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "ManaPercentConditionFactory"
+          }
+        ],
+        "Children": [
+          {
+            "Name": "Use Mana Potion",
+            "Type": 3,
+            "ConditionList": [
+
+            ],
+            "Children": [
+
+            ],
+            "Action": {
+              "Parameters": {
+                "useLife": "False",
+                "useMana": "True",
+                "useHybrid": "True",
+                "useInstant": "False",
+                "useDefense": "False",
+                "useOffense": "False",
+                "useUtility": "False",
+                "useSpeedrun": "False",
+                "usePoison": "False",
+                "useFreeze": "False",
+                "useIgnite": "False",
+                "useShock": "False",
+                "useBleed": "False",
+                "useCurse": "False",
+                "useUnique": "False",
+                "useOffenseAndSpeedrun": "False",
+                "flaskIndex": "1"
+              },
+              "Owner": "Default",
+              "Name": "UseFlaskTypeActionFactory"
+            }
+          }
+        ],
+        "Action": null
+      },
+      {
+        "Name": "Ailments",
+        "Type": 0,
+        "ConditionList": [
+
+        ],
+        "Children": [
+          {
+            "Name": "Frozen",
+            "Type": 2,
+            "ConditionList": [
+              {
+                "Parameters": {
+                  "Invert": "False",
+                  "RemFrozen": "True",
+                  "RemBurning": "False",
+                  "RemShocked": "False",
+                  "RemCurse": "False",
+                  "RemPoison": "False",
+                  "RemBleed": "False",
+                  "CorruptCount": "0"
+                },
+                "Linker": null,
+                "Owner": "Default",
+                "Name": "HasCurableAilmentConditionFactory"
+              }
+            ],
+            "Children": [
+              {
+                "Name": "Use Frozen Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "False",
+                    "useMana": "False",
+                    "useHybrid": "False",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "False",
+                    "useFreeze": "True",
+                    "useIgnite": "False",
+                    "useShock": "False",
+                    "useBleed": "False",
+                    "useCurse": "False",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          },
+          {
+            "Name": "Burning",
+            "Type": 2,
+            "ConditionList": [
+              {
+                "Parameters": {
+                  "Invert": "False",
+                  "RemFrozen": "False",
+                  "RemBurning": "True",
+                  "RemShocked": "False",
+                  "RemCurse": "False",
+                  "RemPoison": "False",
+                  "RemBleed": "False",
+                  "CorruptCount": "0"
+                },
+                "Linker": null,
+                "Owner": "Default",
+                "Name": "HasCurableAilmentConditionFactory"
+              }
+            ],
+            "Children": [
+              {
+                "Name": "Use Ignite Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "False",
+                    "useMana": "False",
+                    "useHybrid": "False",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "False",
+                    "useFreeze": "False",
+                    "useIgnite": "True",
+                    "useShock": "False",
+                    "useBleed": "False",
+                    "useCurse": "False",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          },
+          {
+            "Name": "Shocked",
+            "Type": 2,
+            "ConditionList": [
+              {
+                "Parameters": {
+                  "Invert": "False",
+                  "flaskIndex": "0",
+                  "RemFrozen": "False",
+                  "RemBurning": "False",
+                  "RemShocked": "True",
+                  "RemCurse": "False",
+                  "RemPoison": "False",
+                  "RemBleed": "False",
+                  "CorruptCount": "0"
+                },
+                "Linker": null,
+                "Owner": "Default",
+                "Name": "HasCurableAilmentConditionFactory"
+              }
+            ],
+            "Children": [
+              {
+                "Name": "Use Shock Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "False",
+                    "useMana": "False",
+                    "useHybrid": "False",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "False",
+                    "useFreeze": "False",
+                    "useIgnite": "False",
+                    "useShock": "True",
+                    "useBleed": "False",
+                    "useCurse": "False",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          },
+          {
+            "Name": "Cursed",
+            "Type": 2,
+            "ConditionList": [
+              {
+                "Parameters": {
+                  "Invert": "False",
+                  "flaskIndex": "0",
+                  "RemFrozen": "False",
+                  "RemBurning": "False",
+                  "RemShocked": "False",
+                  "RemCurse": "True",
+                  "RemPoison": "False",
+                  "RemBleed": "False",
+                  "CorruptCount": "0"
+                },
+                "Linker": null,
+                "Owner": "Default",
+                "Name": "HasCurableAilmentConditionFactory"
+              }
+            ],
+            "Children": [
+              {
+                "Name": "Use Curse Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "False",
+                    "useMana": "False",
+                    "useHybrid": "False",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "False",
+                    "useFreeze": "False",
+                    "useIgnite": "False",
+                    "useShock": "False",
+                    "useBleed": "False",
+                    "useCurse": "True",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          },
+          {
+            "Name": "Poison",
+            "Type": 2,
+            "ConditionList": [
+              {
+                "Parameters": {
+                  "Invert": "False",
+                  "RemFrozen": "False",
+                  "RemBurning": "False",
+                  "RemShocked": "False",
+                  "RemCurse": "False",
+                  "RemPoison": "True",
+                  "RemBleed": "False",
+                  "CorruptCount": "0"
+                },
+                "Linker": null,
+                "Owner": "Default",
+                "Name": "HasCurableAilmentConditionFactory"
+              }
+            ],
+            "Children": [
+              {
+                "Name": "Use Poison Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "False",
+                    "useMana": "False",
+                    "useHybrid": "False",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "True",
+                    "useFreeze": "False",
+                    "useIgnite": "False",
+                    "useShock": "False",
+                    "useBleed": "False",
+                    "useCurse": "False",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          },
+          {
+            "Name": "Bleeding",
+            "Type": 2,
+            "ConditionList": [
+              {
+                "Parameters": {
+                  "Invert": "False",
+                  "RemFrozen": "False",
+                  "RemBurning": "False",
+                  "RemShocked": "False",
+                  "RemCurse": "False",
+                  "RemPoison": "False",
+                  "RemBleed": "True",
+                  "CorruptCount": "0"
+                },
+                "Linker": null,
+                "Owner": "Default",
+                "Name": "HasCurableAilmentConditionFactory"
+              }
+            ],
+            "Children": [
+              {
+                "Name": "Use Bleed Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "False",
+                    "useMana": "False",
+                    "useHybrid": "False",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "False",
+                    "useFreeze": "False",
+                    "useIgnite": "False",
+                    "useShock": "False",
+                    "useBleed": "True",
+                    "useCurse": "False",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          },
+          {
+            "Name": "Corrupted Blood",
+            "Type": 2,
+            "ConditionList": [
+              {
+                "Parameters": {
+                  "Invert": "False",
+                  "RemFrozen": "False",
+                  "RemBurning": "False",
+                  "RemShocked": "False",
+                  "RemCurse": "False",
+                  "RemPoison": "False",
+                  "RemBleed": "False",
+                  "CorruptCount": "10"
+                },
+                "Linker": null,
+                "Owner": "Default",
+                "Name": "HasCurableAilmentConditionFactory"
+              }
+            ],
+            "Children": [
+              {
+                "Name": "Use Bleed Flask",
+                "Type": 3,
+                "ConditionList": [
+
+                ],
+                "Children": [
+
+                ],
+                "Action": {
+                  "Parameters": {
+                    "useLife": "False",
+                    "useMana": "False",
+                    "useHybrid": "False",
+                    "useInstant": "False",
+                    "useDefense": "False",
+                    "useOffense": "False",
+                    "useUtility": "False",
+                    "useSpeedrun": "False",
+                    "usePoison": "False",
+                    "useFreeze": "False",
+                    "useIgnite": "False",
+                    "useShock": "False",
+                    "useBleed": "True",
+                    "useCurse": "False",
+                    "useUnique": "False",
+                    "useOffenseAndSpeedrun": "False"
+                  },
+                  "Owner": "Default",
+                  "Name": "UseFlaskTypeActionFactory"
+                }
+              }
+            ],
+            "Action": null
+          }
+        ],
+        "Action": null
+      },
+      {
+        "Name": "Defensive Flask",
+        "Type": 2,
+        "ConditionList": [
+          {
+            "Parameters": {
+              "Invert": "False",
+              "IsAbove": "False",
+              "Percentage": "60"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "HealthPercentConditionFactory"
+          }
+        ],
+        "Children": [
+          {
+            "Name": "Use Defensive Flask",
+            "Type": 3,
+            "ConditionList": [
+
+            ],
+            "Children": [
+
+            ],
+            "Action": {
+              "Parameters": {
+                "useLife": "False",
+                "useMana": "False",
+                "useHybrid": "False",
+                "useInstant": "False",
+                "useDefense": "True",
+                "useOffense": "False",
+                "useUtility": "False",
+                "useSpeedrun": "False",
+                "usePoison": "False",
+                "useFreeze": "False",
+                "useIgnite": "False",
+                "useShock": "False",
+                "useBleed": "False",
+                "useCurse": "False",
+                "useUnique": "False",
+                "useOffenseAndSpeedrun": "False"
+              },
+              "Owner": "Default",
+              "Name": "UseFlaskTypeActionFactory"
+            }
+          }
+        ],
+        "Action": null
+      },
+      {
+        "Name": "Offensive Flask",
+        "Type": 2,
+        "ConditionList": [
+          {
+            "Parameters": {
+              "Invert": "False",
+              "IsAbove": "False",
+              "Percentage": "90"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "HealthPercentConditionFactory"
+          },
+          {
+            "Parameters": {
+              "Invert": "False",
+              "IsAbove": "False",
+              "Percentage": "99"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "ManaPercentConditionFactory"
+          },
+          {
+            "Parameters": {
+              "Invert": "False",
+              "MinimumMonsterCount": "1",
+              "MaxDistance": "150",
+              "ColdResistanceThreshold": "0",
+              "FireResistanceThreshold": "0",
+              "LightningResistanceThreshold": "0",
+              "ChaosResistanceThreshold": "0",
+              "CountWhiteMonsters": "False",
+              "CountRareMonsters": "True",
+              "CountMagicMonsters": "False",
+              "CountUniqueMonsters": "True",
+              "MonsterHealthPercentThreshold": "15",
+              "MonsterAboveHealthThreshold": "True"
+            },
+            "Linker": 1,
+            "Owner": "Default",
+            "Name": "NearbyMonstersConditionFactory"
+          },
+          {
+            "Parameters": {
+              "Invert": "False",
+              "MinimumMonsterCount": "3",
+              "MaxDistance": "150",
+              "ColdResistanceThreshold": "0",
+              "FireResistanceThreshold": "0",
+              "LightningResistanceThreshold": "0",
+              "ChaosResistanceThreshold": "0",
+              "CountWhiteMonsters": "False",
+              "CountRareMonsters": "True",
+              "CountMagicMonsters": "False",
+              "CountUniqueMonsters": "False",
+              "MonsterHealthPercentThreshold": "15",
+              "MonsterAboveHealthThreshold": "True"
+            },
+            "Linker": 1,
+            "Owner": "Default",
+            "Name": "NearbyMonstersConditionFactory"
+          },
+          {
+            "Parameters": {
+              "Invert": "False",
+              "MinimumMonsterCount": "5",
+              "MaxDistance": "150",
+              "ColdResistanceThreshold": "0",
+              "FireResistanceThreshold": "0",
+              "LightningResistanceThreshold": "0",
+              "ChaosResistanceThreshold": "0",
+              "CountWhiteMonsters": "True",
+              "CountRareMonsters": "True",
+              "CountMagicMonsters": "True",
+              "CountUniqueMonsters": "True",
+              "MonsterHealthPercentThreshold": "10",
+              "MonsterAboveHealthThreshold": "True"
+            },
+            "Linker": 1,
+            "Owner": "Default",
+            "Name": "NearbyMonstersConditionFactory"
+          }
+        ],
+        "Children": [
+          {
+            "Name": "Use Offensive Flask",
+            "Type": 3,
+            "ConditionList": [
+
+            ],
+            "Children": [
+
+            ],
+            "Action": {
+              "Parameters": {
+                "useLife": "False",
+                "useMana": "False",
+                "useHybrid": "False",
+                "useInstant": "False",
+                "useDefense": "False",
+                "useOffense": "True",
+                "useUtility": "False",
+                "useSpeedrun": "False",
+                "usePoison": "False",
+                "useFreeze": "False",
+                "useIgnite": "False",
+                "useShock": "False",
+                "useBleed": "False",
+                "useCurse": "False",
+                "useUnique": "False",
+                "useOffenseAndSpeedrun": "True",
+                "reserveFlaskCharges": "0"
+              },
+              "Owner": "Default",
+              "Name": "UseFlaskTypeActionFactory"
+            }
+          }
+        ],
+        "Action": null
+      },
+      {
+        "Name": "Speedrun Flask",
+        "Type": 2,
+        "ConditionList": [
+          {
+            "Parameters": {
+              "Invert": "False",
+              "msMoving": "1500"
+            },
+            "Linker": null,
+            "Owner": "Default",
+            "Name": "PlayerMovingConditionFactory"
+          }
+        ],
+        "Children": [
+          {
+            "Name": "Use Speedrun Flask",
+            "Type": 3,
+            "ConditionList": [
+
+            ],
+            "Children": [
+
+            ],
+            "Action": {
+              "Parameters": {
+                "useLife": "False",
+                "useMana": "False",
+                "useHybrid": "False",
+                "useInstant": "False",
+                "useDefense": "False",
+                "useOffense": "False",
+                "useUtility": "False",
+                "useSpeedrun": "True",
+                "usePoison": "False",
+                "useFreeze": "False",
+                "useIgnite": "False",
+                "useShock": "False",
+                "useBleed": "False",
+                "useCurse": "False",
+                "useUnique": "False",
+                "useOffenseAndSpeedrun": "False"
+              },
+              "Owner": "Default",
+              "Name": "UseFlaskTypeActionFactory"
+            }
+          }
+        ],
+        "Action": null
+      }
+    ],
+    "Action": null
+  }
+}
