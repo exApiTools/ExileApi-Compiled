@@ -1,0 +1,4 @@
+[submodule "Plugins/Source"]
+	path = Plugins/Source
+	url = https://github.com/qvin0000/exileapiplugins
+	branch = master
