@@ -1,0 +1,3884 @@
+[
+  {
+    "Stats": [
+      20100
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Reroll Base Type {} times, keeping the Base Type with the highest Level Requirement"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20085
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20055
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{:+d} to Item Level"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20086
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates an Amulet"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20087
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Belt"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20069
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Belt is a Stygian Vise"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20068
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ring is a Breach Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19746
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{:+d}% to Quality, up to 30%"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20070
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Reforge socket numbers {} times, keeping the greatest number of sockets"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20071
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Reforge socket links {} times, keeping the greatest number of links"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20072
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Randomises the numeric values of base Defences on an Armour {} times, keeping the best outcome"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20073
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Reroll Implicit Modifier Values {} times, keeping the best outcome"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19845
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour Items have a Strength Requirement"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19847
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour Items have a Dexterity Requirement"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19849
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour Items have a Intelligence Requirement"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19846
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour Items do not have a Strength Requirement"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19848
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour Items do not have a Dexterity Requirement"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19850
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour Items do not have a Intelligence Requirement"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19744
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{:+d} Explicit Modifier"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{:+d} Explicit Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20078
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour can roll <necropolisdownside>{{Haunted}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Armour can roll Haunted Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20077
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <necropolisdownside>{{Haunted}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <necropolisdownside>{{Haunted}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Haunted Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Haunted Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19895
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingphysical>{{Physical}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingphysical>{{Physical}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Physical Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Physical Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19896
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingfire>{{Fire}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingfire>{{Fire}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Fire Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Fire Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19897
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingcold>{{Cold}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingcold>{{Cold}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Cold Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Cold Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19898
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftinglightning>{{Lightning}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftinglightning>{{Lightning}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Lightning Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Lightning Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19934
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingred>{{Elemental}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingred>{{Elemental}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Elemental Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Elemental Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19899
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingchaos>{{Chaos}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingchaos>{{Chaos}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Chaos Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Chaos Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19900
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftinglife>{{Life}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftinglife>{{Life}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Life Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Life Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19901
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingblue>{{Mana}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingblue>{{Mana}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Mana Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Mana Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19902
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingattack>{{Attack}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingattack>{{Attack}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Attack Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Attack Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19903
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingcaster>{{Caster}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingcaster>{{Caster}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Caster Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Caster Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19935
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingdefences>{{Defence}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingdefences>{{Defence}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Defence Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Defence Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19939
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingdefences>{{Resistance}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingdefences>{{Resistance}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Resistance Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Resistance Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19938
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingdefences>{{Attribute}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingdefences>{{Attribute}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Attribute Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Attribute Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19937
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingspeed>{{Speed}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingspeed>{{Speed}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Speed Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Speed Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19936
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingcrit>{{Critical}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingcrit>{{Critical}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Critical Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Critical Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19940
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingdefences>{{Gem}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingdefences>{{Gem}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Gem Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Gem Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19941
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <craftingcaster>{{Minion}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <craftingcaster>{{Minion}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Minion Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Minion Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20053
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance for <normal>{{Prefix}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance for <normal>{{Prefix}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance for Prefix Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance for Prefix Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20054
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of <normal>{{Suffix}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of <normal>{{Suffix}} Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Suffix Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Suffix Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19957
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingphysical>{{Physical}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Physical Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19958
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingfire>{{Fire}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Fire Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19959
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingcold>{{Cold}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Cold Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19960
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftinglightning>{{Lightning}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Lightning Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19966
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingred>{{Elemental}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Elemental Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19961
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingchaos>{{Chaos}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Chaos Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19962
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftinglife>{{Life}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Life Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19963
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingblue>{{Mana}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Mana Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19964
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingattack>{{Attack}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Attack Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19965
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingcaster>{{Caster}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Caster Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19967
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingdefences>{{Defence}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Defence Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19971
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingdefences>{{Resistance}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Resistance Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19970
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingdefences>{{Attribute}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Attribute Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19969
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingspeed>{{Speed}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Speed Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19968
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingcrit>{{Critical}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Critical Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19972
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<craftingdefences>{{Gem}} Modifiers are {}% scarcer"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Gem Modifiers are {}% scarcer"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20349
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20351
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "(The lowest {0}% of Modifier Tiers cannot roll)"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19942
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingphysical>{{Physical}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Physical Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19943
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingfire>{{Fire}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Fire Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19944
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingcold>{{Cold}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Cold Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19945
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftinglightning>{{Lightning}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Lightning Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19904
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingred>{{Elemental}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Elemental Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19946
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingchaos>{{Chaos}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Chaos Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19905
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftinglife>{{Life}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Life Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19947
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingblue>{{Mana}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Mana Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19948
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingattack>{{Attack}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Attack Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19949
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingcaster>{{Caster}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Caster Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19950
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingdefences>{{Defence}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Defence Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19954
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingdefences>{{Resistance}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Resistance Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19953
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingdefences>{{Attribute}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Attribute Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19952
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingspeed>{{Speed}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Speed Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19951
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingcrit>{{Critical}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Critical Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19955
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingdefences>{{Gem}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Gem Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19956
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to <craftingcaster>{{Minion}} Modifier Tier Rating"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0:+d} to Minion Modifier Tier Rating"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19986
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Reroll Modifier Values of each Explicit Modifier {} times, keeping the best outcome"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20166
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Item is Corrupted"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20165
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance for Corruption Implicit Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance for Corruption Implicit Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19747
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance to Fracture an Explicit Modifier"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20167
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance to create a Mirrored Copy"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20164
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance to create a Split Copy"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20012
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased Effect of Corpses in this Grave Row"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced Effect of Corpses in this Grave Row"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20013
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased Effect of Corpses in this Grave Column"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced Effect of Corpses in this Grave Column"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20140
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Corpses in adjacent Graves and this Corpse have their crafting outcomes randomised when this Corpse is buried"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20137
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance for Humanoid Corpses to not be consumed when Exorcising, up to 50%"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20135
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance for Beast Corpses to not be consumed when Exorcising, up to 50%"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20136
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance for Undead Corpses to not be consumed when Exorcising, up to 50%"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20138
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance for Construct Corpses to not be consumed when Exorcising, up to 50%"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20139
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance for Demon Corpses to not be consumed when Exorcising, up to 50%"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20132
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased Effect of Humanoid Corpses adjacent to this Corpse"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced Effect of Humanoid Corpses adjacent to this Corpse"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20130
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased Effect of Beast Corpses adjacent to this Corpse"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced Effect of Beast Corpses adjacent to this Corpse"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20131
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased Effect of Undead Corpses adjacent to this Corpse"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced Effect of Undead Corpses adjacent to this Corpse"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20133
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased Effect of Construct Corpses adjacent to this Corpse"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced Effect of Construct Corpses adjacent to this Corpse"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20134
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased Effect of Demon Corpses adjacent to this Corpse"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced Effect of Demon Corpses adjacent to this Corpse"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20280
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Has a random Conqueror Influence"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20279
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Has Shaper or Elder Influence"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20293
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Item sells for much more to Vendors"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19933
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% chance to craft an additional Item"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20272
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Bone Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20312
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Cerulean Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20353
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Grasping Mail"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20276
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates an Experimented Weapon"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20311
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates an Iolite Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20273
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Minion Wand"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20310
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates an Opal Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20274
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Ritual Helmet, Gloves or Boots"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20352
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Sacrificial Garb"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20309
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Steel Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20271
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Talisman"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20291
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Vermillion Ring"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20275
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Creates a Helmet, Gloves or Boots with Ward"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20292
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 1
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Requires at least {} other Corpse of the same Monster Name"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Requires at least {} other Corpses of the same Monster Name"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20281
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{}% increased chance of Influence Modifiers"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "{}% reduced chance of Influence Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20298
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 2,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Minimum {} Linked Sockets"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20295
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{:+d} to minimum number of Linked Sockets, up to a maximum of 4"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20296
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{:+d} to minimum number of Linked Sockets, up to a maximum of 5"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20297
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{:+d} to minimum number of Linked Sockets, up to a maximum of 6"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19888
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Reveals a Random Craft when Buried\nRarer Crafts are more common"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20096
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Asinia Grattus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20097
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Legius Grattus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20098
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Tyche Grattus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20099
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Draven Grattus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20092
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Lilius Nevalius"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20093
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Octavius Nevalius"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20094
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Marius Nevalius"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20095
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Julianis Nevalius"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19915
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Drusia Perandus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19916
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Lucilius Perandus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19917
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Quintio Perandus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19918
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Kostian Perandus"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20088
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Albanus Phrecia"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20089
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Valerius Phrecia"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20090
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Fabricia Phrecia"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20091
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Iris Phrecia"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20046
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Hadrius Veruso"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20047
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Titiana Veruso"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20048
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Claudia Veruso"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      20049
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Haunted by Fausta Veruso"
+      }
+    ]
+  }
+]
