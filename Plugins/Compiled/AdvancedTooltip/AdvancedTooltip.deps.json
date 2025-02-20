@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/win-x64": {
+      "AdvancedTooltip/1.0.0": {
+        "dependencies": {
+          "SharpDX.Mathematics": "4.2.0"
+        },
+        "runtime": {
+          "AdvancedTooltip.dll": {}
+        }
+      },
+      "SharpDX/4.2.0": {
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "SharpDX.Mathematics/4.2.0": {
+        "dependencies": {
+          "SharpDX": "4.2.0"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.Mathematics.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedTooltip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3pv0LFMvfK/dv1qISJnn8xBeeT6R/FRvr0EV4KI2DGsL84Qlv6P7isWqxGyU0LCwlSVCJN3jgHJ4Bl0KI2PJww==",
+      "path": "sharpdx/4.2.0",
+      "hashPath": "sharpdx.4.2.0.nupkg.sha512"
+    },
+    "SharpDX.Mathematics/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2pcKLgdsP9p5WyTjHmGOZ0ka0zASAZYc6P4L6rSvjYhf6klGYbent7MiVwbkwkt9dD44p5brjy5IwAnVONWGw==",
+      "path": "sharpdx.mathematics/4.2.0",
+      "hashPath": "sharpdx.mathematics.4.2.0.nupkg.sha512"
+    }
+  }
+}

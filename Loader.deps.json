@@ -1,0 +1,144 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/win-x64": {
+      "Loader/1.0.0": {
+        "dependencies": {
+          "LinqFaster": "1.0.0",
+          "Microsoft.Build.Locator": "1.11.2",
+          "Newtonsoft.Json": "13.0.3",
+          "Serilog": "4.3.1",
+          "Serilog.Sinks.File": "7.0.0",
+          "SharpDX": "4.2.0",
+          "SharpDX.Mathematics": "4.2.0"
+        },
+        "runtime": {
+          "Loader.dll": {}
+        }
+      },
+      "LinqFaster/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/JM.LinqFaster.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "Microsoft.Build.Locator/1.11.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Build.Locator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.11.2.35241"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "Serilog/4.3.1": {
+        "runtime": {
+          "lib/net10.0/Serilog.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.File/7.0.0": {
+        "dependencies": {
+          "Serilog": "4.3.1"
+        },
+        "runtime": {
+          "lib/net9.0/Serilog.Sinks.File.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "SharpDX/4.2.0": {
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "SharpDX.Mathematics/4.2.0": {
+        "dependencies": {
+          "SharpDX": "4.2.0"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SharpDX.Mathematics.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinqFaster/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+s29tEAu8bAXqnDeWhYNrhUGDiSPzf2RsZgvGsNdMgJBa3ywp5zJzkf8EBAgd6h7I0GpG6Zw/K1SENt9jD09mA==",
+      "path": "linqfaster/1.0.0",
+      "hashPath": "linqfaster.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.Build.Locator/1.11.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tY+/S54G29CGsbL3slVu4vqtpciwVnb3fKOmrhgzEQmu/VziFaWmD/E1e/2KH7cDucuycGSkWsSXndBs5Uawow==",
+      "path": "microsoft.build.locator/1.11.2",
+      "hashPath": "microsoft.build.locator.1.11.2.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Serilog/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-savYe7h5yRlkqBVOwP8cIRDOdqKiPmYCU4W87JH38sBmcKD5EBoXvQIw6bNEvZ/pTe1gsiye3VFCzBsoppGkXQ==",
+      "path": "serilog/4.3.1",
+      "hashPath": "serilog.4.3.1.nupkg.sha512"
+    },
+    "Serilog.Sinks.File/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fKL7mXv7qaiNBUC71ssvn/dU0k9t0o45+qm2XgKAlSt19xF+ijjxyA3R6HmCgfKEKwfcfkwWjayuQtRueZFkYw==",
+      "path": "serilog.sinks.file/7.0.0",
+      "hashPath": "serilog.sinks.file.7.0.0.nupkg.sha512"
+    },
+    "SharpDX/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3pv0LFMvfK/dv1qISJnn8xBeeT6R/FRvr0EV4KI2DGsL84Qlv6P7isWqxGyU0LCwlSVCJN3jgHJ4Bl0KI2PJww==",
+      "path": "sharpdx/4.2.0",
+      "hashPath": "sharpdx.4.2.0.nupkg.sha512"
+    },
+    "SharpDX.Mathematics/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2pcKLgdsP9p5WyTjHmGOZ0ka0zASAZYc6P4L6rSvjYhf6klGYbent7MiVwbkwkt9dD44p5brjy5IwAnVONWGw==",
+      "path": "sharpdx.mathematics/4.2.0",
+      "hashPath": "sharpdx.mathematics.4.2.0.nupkg.sha512"
+    }
+  }
+}
