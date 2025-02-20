@@ -1,0 +1,80 @@
+﻿/*
+Filter:
+0 - any
+1 - hostiles
+2 - players & minions
+*/
+{
+"Bleeding": {
+    "puncture":0,
+    "puncture_moving":0,
+    "physical_damage_and_bleed":0,
+    "bleeding":0
+},
+"Corruption": {
+    "corrupted_blood":0,
+    "corrupted_blood_rain":0
+},
+"Poisoned": {
+    "poison":0,
+    "viper_strike_orb":0,
+    "monster_aura_pus_puke_degen":2,
+    "monster_aura_chaos_degen":2,
+    "monster_aura_physical_degen":2,
+    "ground_desecration":0,
+    "caustic_cloud":0,
+    "chaos_bond_in_beam":0
+},
+"Frozen": {
+    "frozen":0,
+    "cold_damage_and_freeze":0
+},
+"Chilled": {
+    "chilled":0,
+    "ground_ice_chill":0,
+    "chilling_bond_in_beam":0,
+    "monster_aura_chill":2
+},
+"Burning": {
+    "ground_fire_burn":0,
+    "ignited":0,
+    "searing_bond_in_beam":0,
+    "fire_damage_and_ignite":0,
+    "monster_aura_burning":2,
+    "demon_righteous_fire_aura":2,
+    "righteous_fire_aura":2
+},
+"Shocked": {
+    "shocked":0,
+    "ground_lightning_shock":0,
+    "seawitch_lightning_beam":0,
+    "lightning_damage_and_shock":0,
+    "monster_aura_shock":2
+},
+"WeakenedSlowed": {
+    "monster_aura_slow":2,
+    "curse_enfeeble":0,
+    "curse_temporal_chains":0,
+    "curse_elemental_weakness":0,
+    "curse_fire_weakness":0,
+    "curse_cold_weakness":0,
+    "curse_lightning_weakness":0,
+    "curse_warlords_mark":0,
+    "curse_punishment":0,
+    "curse_assassins_mark":0,
+    "curse_projectile_weakness":0,
+    "curse_vulnerability":0,
+    "curse_poachers_mark":0,
+    "beartrap_debuff":0,
+    "ground_tar_slow":0,
+    "blinded":0,
+    "frozen_damage_increase":0,
+    "piety_transformed_debuff":0,
+    "ground_smoke_blind":0,
+    "curse_silence":0,
+    "sea_witch_screech_debuff":0,
+    "pinned":0,
+    "bleeding_movespeed_penalty":0,
+    "stun_display_buff":0
+}
+}
